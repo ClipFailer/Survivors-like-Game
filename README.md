@@ -18,6 +18,12 @@
 
 ---
 
+## Скриншоты игры:
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/52a2eb73-11b5-4d8b-baca-dad0ef6ebc2f" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6b8b0b1a-9bd9-4ca3-840e-64a85368df97" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a916427-bfbc-499e-b6c7-5f3f6805119e" />
+
+
 ## ⚙️ Основные механики
 
 | Механика | Описание |
