@@ -135,7 +135,7 @@ Survivors-like-Game/
 ## 📬 Контакты
 Автор: ClipFailer
 
-GitHub: ClipFailer
+GitHub: [ClipFailer](https://github.com/ClipFailer)
 
 ## 📄 Лицензия
 Этот проект создан в образовательных целях. Все права на ассеты и код принадлежат их соответствующим владельцам.
